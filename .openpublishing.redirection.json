@@ -1,0 +1,8 @@
+{
+  "redirections":[
+  {
+    "source_path":"E2E_MSDN_Prod_Dynamic/index.md",
+    "redirect_url":"https://review.docs.microsoft.com/en-us/E2E_DocsBranch_Prod_Dynamic/index?branch=MSDNRedirectToDocs"
+  }
+ ]
+}
